@@ -12,9 +12,9 @@
 
 - 🐿️ Junior at Earlham College
 
-- 🔭 I’m currently as a Data Analyst for <a href="https://earlham.edu/academics/epic/center-for-global-health/" target="blank">the Center for Global Health</a>
+- 🔭 I’m currently working as a Data Analyst for <a href="https://earlham.edu/academics/epic/center-for-global-health/" target="blank">the Center for Global Health</a>
 
-- 🌱 I’m currently Working on AI and ML Research
+- 🌱 I’m currently doing research on AI and ML
 
 - 💬 Ask me about Quaker Robotics and CS4SocialGood
 
