@@ -6,23 +6,20 @@
 </a>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/JrkLdkC80AMuZWGXYe/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media2.giphy.com/media/KHEjhrU9iuvGlBd7ty/giphy.gif?cid=6c09b952ek8i4564ueh8wn8c6w0m9w03y236vwlf18pts4xe&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 </a>
 
 
-- 🔭 I’m currently working in <a href="https://earlham.edu/academics/epic/center-for-global-health/" target="blank">Earlham College Center for Global Health</a>
+- 🐿️ I am a Junior at Earlham College
+
+- 🔭 I’m currently as a Data Analyst for <a href="https://earlham.edu/academics/epic/center-for-global-health/" target="blank">the Center for Global Health</a>
 
 - 🌱 I’m currently Working on AI and ML Research
 
-- 🌱 I’m currently learning AI and ML
-
 - 💬 Ask me about Quacker Robotics and CS4SocialGood
 
-- 📫 How to reach me **michellemarchesiniv@gmail.com**
+- 📫 Reach me at **michellemarchesiniv@gmail.com**
 
-- Languages I speak 🇺🇸 🇨🇴
-
-- Currently learning 🇩🇪 🇧🇷
 
 - 📄 Here is my <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
