@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michelle Marchesini</a></h1>
-<h3 align="center"> Computer Science and Pre-Engineering Student 🔭 </h3>
+<h3 align="center"> Computer Science Student 🔭 </h3>
 
 <a target="_blank">
   <img src="https://media.giphy.com/media/JrkLdkC80AMuZWGXYe/giphy.gif" alt="GIF" height="300" width="400">
