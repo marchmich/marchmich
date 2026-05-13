@@ -10,7 +10,7 @@
 </a>
 
 
-- 🐿️ Junior at Earlham College
+- 🐿️ Senior at Earlham College
 
 - 🔭 I’m currently working as a Data Analyst for <a href="https://earlham.edu/academics/epic/center-for-global-health/" target="blank">the Center for Global Health</a>
 
