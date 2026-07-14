@@ -12,7 +12,7 @@
 
 - 🐿️ Senior at Earlham College
 
-- 🔭 I’m currently working as a Data Analyst for <a href="https://earlham.edu/academics/epic/center-for-global-health/" target="blank">the Center for Global Health</a>
+- 🔭 I’m currently working as an Undergraduate Research Intern at the Smithsonian Environmental Research Center (SERC) </a>
 
 - 🌱 I’m currently doing research on AI and ML
 
