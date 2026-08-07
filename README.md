@@ -14,11 +14,7 @@
 
 - 🔭 I’m currently working as an Undergraduate Research Intern at the Smithsonian Environmental Research Center (SERC) </a>
 
-- 🌱 I’m currently doing research on AI and ML
-
-- 💬 Ask me about Quaker Robotics and CS4SocialGood
-
-- 📫 Reach me at **michellemarchesiniv@gmail.com**
+- 📫 Reach me at **mmarch22@earlham.com**
 
 - Here is my <a href="https://marchmich.github.io/" target="blank">Portfolio</a>
 
