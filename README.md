@@ -5,9 +5,6 @@
   <img src="https://media.giphy.com/media/JrkLdkC80AMuZWGXYe/giphy.gif" alt="GIF" height="300" width="400">
 </a>
 
-<a target="_blank" align="center">
-  <img align="right" top="400" height="300" width="400" alt="GIF" src="https://media2.giphy.com/media/KHEjhrU9iuvGlBd7ty/giphy.gif?cid=6c09b952ek8i4564ueh8wn8c6w0m9w03y236vwlf18pts4xe&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
-</a>
 
 
 - 🐿️ Senior at Earlham College
